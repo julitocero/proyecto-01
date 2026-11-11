@@ -13,4 +13,4 @@ npm install
 npm run dev
 ```
 
-Despliegue en Vercel: `vercel.json` ya redirige todas las rutas a `index.html`.
+Aplicación desplegada en Vercel: https://proyecto-01-flame.vercel.app/
